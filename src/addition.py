@@ -1,5 +1,5 @@
 # app.py
-# vargab
+
 def add(a, b):
     return a + b
 
